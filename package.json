@@ -1,0 +1,25 @@
+{
+  "name": "awsiot",
+  "version": "1.0.0",
+  "description": "AWS IoT support device",
+  "main": "app.js",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.12",
+    "chance": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brownjohnf/awsiot.git"
+  },
+  "author": "Jack Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brownjohnf/awsiot/issues"
+  },
+  "homepage": "https://github.com/brownjohnf/awsiot#readme"
+}
